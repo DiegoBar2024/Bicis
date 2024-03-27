@@ -5,8 +5,6 @@ namespace Bicicleta
     {
         public Bicicleta(string marca, string color, int tamaño, string uso)
         {
-            // Comentario adicional
-            // Otro comentario
             this.Marca = marca;
             this.Color = color;
             this.Tamaño = tamaño;
