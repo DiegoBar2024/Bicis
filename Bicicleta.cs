@@ -3,6 +3,7 @@ namespace Bicicleta
     using System;
     public class Bicicleta
     {
+        // Constructor
         public Bicicleta(string marca, string color, int tamaño, string uso)
         {
             this.Marca = marca;
@@ -16,6 +17,7 @@ namespace Bicicleta
             }
         }
 
+        // Inicializo atributos
         public string Marca { get; }
 
         public string Color { get; set; }
