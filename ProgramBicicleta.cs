@@ -16,6 +16,8 @@ namespace Bicicleta
             Console.WriteLine($"Bicicleta 2: {b2.Marca}, {b2.Color} de tamaño {b2.Tamaño} y tipo {b2.Uso}");
             Console.WriteLine($"Bicicleta 3: {b3.Marca}, {b3.Color} de tamaño {b3.Tamaño} y tipo {b3.Uso}");
 
+            Console.WriteLine($"Bicicleta 3: {miBici.Marca}, {miBici.Color} de tamaño {miBici.Tamaño} y tipo {miBici.Uso}");
+
         }
     }
 }
