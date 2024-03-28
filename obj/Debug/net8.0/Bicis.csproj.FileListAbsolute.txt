@@ -1,0 +1,14 @@
+C:\Yo\Facultad\Noveno Semestre\Programacion II\Bicis\bin\Debug\net8.0\Bicis.exe
+C:\Yo\Facultad\Noveno Semestre\Programacion II\Bicis\bin\Debug\net8.0\Bicis.deps.json
+C:\Yo\Facultad\Noveno Semestre\Programacion II\Bicis\bin\Debug\net8.0\Bicis.runtimeconfig.json
+C:\Yo\Facultad\Noveno Semestre\Programacion II\Bicis\bin\Debug\net8.0\Bicis.dll
+C:\Yo\Facultad\Noveno Semestre\Programacion II\Bicis\bin\Debug\net8.0\Bicis.pdb
+C:\Yo\Facultad\Noveno Semestre\Programacion II\Bicis\obj\Debug\net8.0\Bicis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yo\Facultad\Noveno Semestre\Programacion II\Bicis\obj\Debug\net8.0\Bicis.AssemblyInfoInputs.cache
+C:\Yo\Facultad\Noveno Semestre\Programacion II\Bicis\obj\Debug\net8.0\Bicis.AssemblyInfo.cs
+C:\Yo\Facultad\Noveno Semestre\Programacion II\Bicis\obj\Debug\net8.0\Bicis.csproj.CoreCompileInputs.cache
+C:\Yo\Facultad\Noveno Semestre\Programacion II\Bicis\obj\Debug\net8.0\Bicis.dll
+C:\Yo\Facultad\Noveno Semestre\Programacion II\Bicis\obj\Debug\net8.0\refint\Bicis.dll
+C:\Yo\Facultad\Noveno Semestre\Programacion II\Bicis\obj\Debug\net8.0\Bicis.pdb
+C:\Yo\Facultad\Noveno Semestre\Programacion II\Bicis\obj\Debug\net8.0\Bicis.genruntimeconfig.cache
+C:\Yo\Facultad\Noveno Semestre\Programacion II\Bicis\obj\Debug\net8.0\ref\Bicis.dll
